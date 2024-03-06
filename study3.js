@@ -10,3 +10,5 @@ class User {
 
 let user = new User("John");
 user.sayHi();
+
+console.log("Hello");
